@@ -1,0 +1,25 @@
+body {
+	font-family: 'Oxygen', sans-serif;
+}
+
+.intro {
+	padding-bottom: 7%;
+}
+
+.intro, h1 h2 {
+	letter-spacing: 0.3em;
+	color: #2d3c49;
+}
+
+.intro h1 {
+	font-size: 300%;
+}
+
+.intro h2 {
+	font-weight: 300;
+}
+
+.intro-to-work h2{
+	padding-top: 3%;
+	font-weight: 300;
+}
