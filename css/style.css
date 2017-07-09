@@ -1,9 +1,14 @@
 body {
-	font-family: 'Oxygen', sans-serif;
+	font-family: "Oxygen", sans-serif;
 }
 
 .intro {
 	padding-bottom: 7%;
+}
+
+.intro i {
+	float: left;
+	margin-top: 2%;
 }
 
 .intro, h1 h2 {
